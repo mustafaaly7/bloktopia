@@ -12,7 +12,17 @@ body{
     font-family:"Poppins", sans-serif ;
     font-weight: 400;
 }
-  
+.mainContent{
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+  .navlinks{
+    background-color: #000;
+  }
 .img{
     width: 20%;
 }
@@ -33,18 +43,6 @@ margin: -8px;
 .top a,li,ul{
  color: white; 
 }   
-.roadMap{
-
-}
-.road{
-
-}
-.earn{
-
-}
-.earndrop{
-
-}
 
 .install{
     color: white;
@@ -53,4 +51,11 @@ margin: -8px;
 .header{
     top: 0;
     position: sticky;
+}
+.navbtn:hover{
+    color: red
+}
+
+.myboy:hover{
+    color: red;
 }
