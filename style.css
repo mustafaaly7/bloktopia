@@ -9,9 +9,13 @@
     font-style: normal;
   }
 body{
+    
+    background-color: black;
     font-family:"Poppins", sans-serif ;
     font-weight: 400;
    
+    margin-left: auto;
+    margin-right: auto;
     
 }
 .mainContent{
@@ -44,7 +48,7 @@ width: 80%;
 }
 .top{
 margin: -8px;
-
+color: #0000;
 
 
 }
@@ -70,8 +74,8 @@ margin: -8px;
 }
 
 .firstSection{
-
-    background-color: red;
+    margin: 87px 0 0 0;
+    /* background-color: red; */
 }
 
 
