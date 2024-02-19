@@ -1,9 +1,46 @@
 *{
-    margin: 0;
-
+    margin: 0; 
     padding: 0;
     box-sizing: border-box;
 }
 .img{
     width: 371px;
+}
+
+.connect{
+    background-color: #ec00bf;
+}
+.connect:hover{
+    background-color: #c210a1;
+    
+}
+.top{
+margin: -8px;
+
+
+
+}
+.top a,li,ul{
+ color: white; 
+}   
+.roadMap{
+
+}
+.road{
+
+}
+.earn{
+
+}
+.earndrop{
+
+}
+
+.install{
+    color: white;
+}
+
+.header{
+    top: 0;
+    position: sticky;
 }
