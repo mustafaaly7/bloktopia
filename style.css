@@ -11,13 +11,19 @@
 body{
     font-family:"Poppins", sans-serif ;
     font-weight: 400;
+   
+    
 }
 .mainContent{
-
+width: 80%;
     margin-left: auto;
     margin-right: auto;
+    
 }
-
+.burger{
+    
+    background-color: #ec00bf;
+}
 
 
   .navlinks{
@@ -28,7 +34,9 @@ body{
 }
 
 .connect{
-    background-color: #ec00bf;
+    background-color: #ec00bf; 
+    font-weight: 300;
+    font-size: 14px;
 }
 .connect:hover{
     background-color: #c210a1;
@@ -49,7 +57,7 @@ margin: -8px;
 }
 
 .header{
-    top: 0;
+   
     position: sticky;
 }
 /* .navbtn{
@@ -61,3 +69,12 @@ margin: -8px;
     color: #ec00bf !important;
 }
 
+.firstSection{
+
+    background-color: red;
+}
+
+
+.firstSectionimg{
+    max-width: 512px;
+}
