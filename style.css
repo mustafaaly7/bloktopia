@@ -52,7 +52,12 @@ margin: -8px;
     top: 0;
     position: sticky;
 }
+/* .navbtn{
+    color: white;
+    background: none !important; 
+    transition:all.3s ease
+} */
 .navbtn:hover{
-    color: red
+    color: #ec00bf !important;
 }
 
