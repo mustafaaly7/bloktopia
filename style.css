@@ -33,7 +33,7 @@ width: 80%;
   .navlinks{
     background-color: #000;
   }
-.img{
+.logo{
     width: 20%;
 }
 
@@ -74,11 +74,27 @@ color: #0000;
 }
 
 .firstSection{
-    margin: 87px 0 0 0;
-    /* background-color: red; */
+    width: 80%;
+    display: flex;
+    margin: 163px 0px 0px 30px
 }
 
-
-.firstSectionimg{
-    max-width: 512px;
+.firstSectionImg img{
+    border-radius: 10%;
+    max-width: 601px;
+}
+.firstSectionContent{
+    font-family: "Poppins", sans-serif;
+    color: white;
+    padding: 0px 4px 4px 36px
+}
+.firstSectionContent h3,span{
+    font-size: 70px;
+}
+.firstSectionContent span{
+    color: #ec00bf;
+}
+.firstSectionContent h4{
+    color: #ec00bf;
+    font-size: 70px;
 }
