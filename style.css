@@ -8,7 +8,7 @@
     font-weight: 400;
     font-style: normal;
   }
-body{
+.body{
     
     background-color: black;
     font-family:"Poppins", sans-serif ;
@@ -91,10 +91,15 @@ color: #0000;
 .firstSectionContent h3,span{
     font-size: 70px;
 }
-.firstSectionContent span{
+.firstSectionContent button{
+    background-color: #171717;
+    border: 1px solid #ec00bf;
     color: #ec00bf;
 }
 .firstSectionContent h4{
     color: #ec00bf;
     font-size: 70px;
+}
+.secondSection{
+    display: flex;
 }
