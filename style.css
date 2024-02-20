@@ -101,5 +101,18 @@ color: #0000;
     font-size: 70px;
 }
 .secondSection{
+    width: 80%;
     display: flex;
+    margin: 318px 0px 0px 0px
+}
+.secondSectionImg{
+    max-width: 485%;
+
+}
+.secondSectioncontent{
+    color: white;
+
+}
+.secondSectionImg2{
+max-width: 485px;
 }
