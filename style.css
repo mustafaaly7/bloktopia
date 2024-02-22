@@ -103,6 +103,7 @@ color: #0000;
 .secondSection{
     /* width: 80%; */
     display: flex;
+    flex-wrap: nowrap;
     margin: 318px 0px 0px 0px;
     justify-content: center;
     gap: 17px;
@@ -124,4 +125,135 @@ padding: 50px 0px 0px 0px
 }
 .secondSectioncontent p{
     font-size: 18px;
+}
+.fourthContent{
+    width: 100%;
+    color: white;
+}
+
+
+.box1{
+    
+}
+.part1{
+    background-image: url(./images/earn_tile.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 346px;
+    width: 400px;
+    margin: 0px 0px 0px 118px;
+    border-radius: 4%;
+}
+.part2{
+    background-image: url(./images/play_tile.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 346px;
+    width: 400px;
+    margin: 0px 0px 0px 104px;
+    border-radius: 4%;
+}
+
+.playbtn{
+    background-color: #171717;
+    border: 1px solid #ec00bf;
+    color: #ec00bf;
+    width: 120px;
+    font-size: 20px;
+    margin: 180px 0px 0px 136px;
+}
+.earnbtn{
+    background-color: #171717;
+    border: 1px solid #ec00bf;
+    color: #ec00bf;
+    width: 120px;
+    font-size: 20px;
+    margin: 180px 0px 0px 136px;
+}
+
+
+
+
+.fifthContent{
+    width: 100%;
+    color:white;
+    margin: 49px 0px 0px 0px;
+}
+
+.part3{
+    background-image: url(./images/dao_tile.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 346px;
+    width: 400px;
+    margin: 0px 0px 0px 118px;
+    border-radius: 4%;
+}
+
+.part4{
+
+    background-image: url(./images/nft_tile.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 346px;
+    width: 400px;
+    margin: 0px 0px 0px 118px;
+    border-radius: 4%;
+}
+
+.box3{
+
+}
+
+.box4{
+
+
+}
+
+
+.Votebtn{
+    background-color: #171717;
+    border: 1px solid #ec00bf;
+    color: #ec00bf;
+    width: 120px;
+    font-size: 18px;
+    margin: 180px 0px 0px 136px;
+}
+
+.purchasebtn{
+    background-color: #171717;
+    border: 1px solid #ec00bf;
+    color: #ec00bf;
+    width: 120px;
+    font-size: 20px;
+    margin: 180px 0px 0px 136px;
+}
+
+
+.footer{
+    background-color: #171717;
+    margin: 131px 0px 0px 0px
+}
+
+.icon{
+    font-size: 30px;
+/* text-align: center; */
+    color: white;
+}
+.socials{
+color: white;
+text-align: center;
+}
+.socials a{
+    text-decoration: none;
+    color: #c210a1;
+}
+
+.conditions{
+    text-align: center;
+    color: white;
 }
