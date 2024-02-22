@@ -133,9 +133,21 @@ padding: 50px 0px 0px 0px
 
 
 .box1{
-    
+    margin: 96px 0px 0px 0px
 }
+.box2{
+    margin: 96px 0px 0px 0px
+}
+.box3{
+    margin: 96px 0px 0px 0px
+}
+.box4{
+    margin: 96px 0px 0px 0px
+}
+
 .part1{
+    text-align: center;
+
     background-image: url(./images/earn_tile.jpg);
     background-position: center;
     background-size: cover;
@@ -146,6 +158,8 @@ padding: 50px 0px 0px 0px
     border-radius: 4%;
 }
 .part2{
+    text-align: center;
+
     background-image: url(./images/play_tile.jpg);
     background-position: center;
     background-size: cover;
@@ -162,7 +176,7 @@ padding: 50px 0px 0px 0px
     color: #ec00bf;
     width: 120px;
     font-size: 20px;
-    margin: 180px 0px 0px 136px;
+    margin: 180px 0px 0px px;
 }
 .earnbtn{
     background-color: #171717;
@@ -170,7 +184,7 @@ padding: 50px 0px 0px 0px
     color: #ec00bf;
     width: 120px;
     font-size: 20px;
-    margin: 180px 0px 0px 136px;
+    margin: 180px 0px 0px px;
 }
 
 
@@ -183,6 +197,8 @@ padding: 50px 0px 0px 0px
 }
 
 .part3{
+
+    text-align: center;
     background-image: url(./images/dao_tile.jpg);
     background-position: center;
     background-size: cover;
@@ -194,6 +210,7 @@ padding: 50px 0px 0px 0px
 }
 
 .part4{
+    text-align: center;
 
     background-image: url(./images/nft_tile.jpg);
     background-position: center;
@@ -213,6 +230,19 @@ padding: 50px 0px 0px 0px
 
 
 }
+.fourthContent h5{
+    font-size: 40px;
+}
+.fourthContent p{
+    font-size: 20px;
+}
+
+.fifthContent h5{
+    font-size: 40px;
+}
+.fifthContent p{
+    font-size: 20px;
+}
 
 
 .Votebtn{
@@ -221,7 +251,7 @@ padding: 50px 0px 0px 0px
     color: #ec00bf;
     width: 120px;
     font-size: 18px;
-    margin: 180px 0px 0px 136px;
+    margin: 180px 0px 0px px;
 }
 
 .purchasebtn{
@@ -230,7 +260,7 @@ padding: 50px 0px 0px 0px
     color: #ec00bf;
     width: 120px;
     font-size: 20px;
-    margin: 180px 0px 0px 136px;
+    margin: 180px 0px 0px px;
 }
 
 
