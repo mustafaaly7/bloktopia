@@ -101,9 +101,11 @@ color: #0000;
     font-size: 70px;
 }
 .secondSection{
-    width: 80%;
+    /* width: 80%; */
     display: flex;
-    margin: 318px 0px 0px 0px
+    margin: 318px 0px 0px 0px;
+    justify-content: center;
+    gap: 17px;
 }
 .secondSectionImg{
     max-width: 485%;
@@ -116,4 +118,10 @@ color: #0000;
 .secondSectionImg2{
 max-width: 485px;
 padding: 50px 0px 0px 0px
+}
+.secondSectioncontent h2{
+    font-size: 30px;
+}
+.secondSectioncontent p{
+    font-size: 18px;
 }
